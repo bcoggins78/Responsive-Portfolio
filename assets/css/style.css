@@ -142,12 +142,12 @@ input {
     width: 75px;
 }
 
-#hangmanpic {
+#psychic-pic {
     float: left;
     margin-left: 20px;
 }
 
-#hangmanlabel {
+#psychic-label {
     background-color: #4aaaa5;
     text-align: center;
     color: #ffffff;
@@ -159,12 +159,12 @@ input {
     display: block;
 }
 
-#rpggamepic {
+#crystal-pic {
     margin-right: 450px;
     float: right;
 }
 
-#rpggamelabel {
+#crystal-label {
     background-color: #4aaaa5;
     text-align: center;
     color: #ffffff;
