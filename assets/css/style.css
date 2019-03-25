@@ -204,12 +204,12 @@ input {
     padding: 4px;
 }
 
-#rpspic {
+#trainpic {
     margin-left: 20px;
     float: left;
 }
 
-#rpslabel {
+#trainlabel {
     background-color: #4aaaa5;
     text-align: center;
     vertical-align: middle;
@@ -281,12 +281,12 @@ input {
     width: 97%;
 }
 
-#hangmanpic {
+#psychic-pic {
     margin: 20px;
     margin-bottom: -20px;
 } 
 
-#rpggamepic {
+#crystal-pic {
     margin: 20px;
     margin-bottom: -20px;
     float: left;
@@ -298,14 +298,14 @@ input {
     float: left;
 }
 
-#rutgerspic {
+#giftasticpic {
     margin: 20px;
     margin-bottom: -20px;
     float: left;
     
 }
 
-#rpspic {
+#trainpic {
     margin: 20px;
     float: left;
 }
@@ -342,12 +342,12 @@ input {
 .message {
     width: 99%;
 }
-#hangmanpic {
+#psychic-pic {
     margin: 20px;
     margin-bottom: -20px;
 } 
 
-#rpggamepic {
+#crystal-pic {
     margin: 20px;
     margin-bottom: -20px;
     float: left;
@@ -359,14 +359,14 @@ input {
     float: left;
 }
 
-#rutgerspic {
+#giftasticpic {
     margin: 20px;
     margin-bottom: -20px;
     float: left;
     
 }
 
-#rpspic {
+#trainpic {
     margin: 20px;
     float: left;
 }
@@ -423,12 +423,12 @@ h1 {
     text-align: center;
 }
 
-#hangmanpic {
+#psychic-pic {
     margin: 20px;
     margin-bottom: -20px;
 } 
 
-#rpggamepic {
+#crystal-pic {
     margin: 20px;
     margin-bottom: -20px;
     float: left;
@@ -440,14 +440,14 @@ h1 {
     float: left;
 }
 
-#rutgerspic {
+#giftasticpic {
     margin: 20px;
     margin-bottom: -20px;
     float: left;
     
 }
 
-#rpspic {
+#trainpic {
     margin: 20px;
     float: left;
 }
